@@ -1,0 +1,12 @@
+#window-size-display {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    z-index: 9999;
+    font-family: Arial, sans-serif;
+} 
